@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(241, 239, 213);
+}
+.headpart{
+    background-color:rgba(145, 66, 9, 0.664);
+    width: 95vw;
+    margin:10px 20px 10px 10px;
+    box-shadow: 4px 4px 2px rgb(235, 221, 204);
+    border:2px solid rgb(177, 140, 140);
+}
+#text{
+    
+    text-align: center;
+    padding: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size:xx-large;
+    text-decoration: 2px solid underline;
+}
+
+.i1{
+    width: 340px;
+    height: 350px;
+    background-color: white;
+    margin-left:120px;
+    box-shadow: 2px 2px 4px lightgrey;
+    display: inline-block;
+}
+#esp{
+    padding: 20px 20px 20px 20px;
+}
+#a{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    font-weight: bold;
+    color: black;
+    text-decoration: 2px solid underline;
+    
+}
+#b{
+    text-align: center;
+    color: rgb(109, 101, 101);
+    
+}
+#i2{
+    
+    width: 320px;
+    height: 350px;
+    background-color:white;
+    box-shadow: 2px 2px 4px lightgrey;
+    display: inline-block;
+}
+#latte{
+    padding: 20px 20px 20px 20px;
+}
+#c{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    font-weight: bold;
+    color: black;
+    text-decoration: 2px solid underline;
+    
+}
+#d{
+    text-align: center;
+    color: rgb(109, 101, 101);
+    
+}
+ #i3{
+    
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    box-shadow: 2px 2px 4px lightgrey;
+    display: inline-block;
+}
+#cappu{
+    padding: 20px 20px 20px 20px;
+}
+#e{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    font-weight: bold;
+    color: black;
+    text-decoration: 2px solid underline;
+    
+}
+#f{
+    text-align: center;
+    color: rgb(109, 101, 101);
+    
+}
+ #i4{
+    
+    width: 340px;
+    height: 350px;
+    background-color: white;
+    margin-left:120px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 4px lightgrey;
+    display: inline-block;
+   
+}
+ #i5{
+    
+    width: 320px;
+    height: 350px;
+    background-color:white;
+    box-shadow: 2px 2px 4px lightgrey;
+    display: inline-block;
+   
+} 
+#i6{
+    
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    box-shadow: 2px 2px 4px lightgrey;
+    display: inline-block;
+   
+} 
+
+.footer{
+    background-color:rgba(145, 66, 9, 0.664);
+    width: 95vw;
+    margin:10px 20px 10px 10px;
+    box-shadow: 4px 4px 2px rgb(235, 221, 204);
+    border:2px solid rgb(177, 140, 140);
+}
+#txt{
+    
+text-align: center;
+padding: 25px;
+font-family:Arial, Helvetica, sans-serif;
+color: white;
+font-weight: bold;
+font-size:small;
+text-transform: capitalize;
+} 
